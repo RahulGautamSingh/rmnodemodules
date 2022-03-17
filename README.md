@@ -10,7 +10,7 @@
 - In the case of a single project, include its path in the _addresses_
 - `node index.js`
 
-# OR
+# or
 
 - Copy code from `index.js` to a local js file -> save -> update _addresses_ -> run
 
