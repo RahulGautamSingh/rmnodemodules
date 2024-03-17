@@ -1,4 +1,4 @@
-## delete_node_modules
+## Delete_node_modules
 
 - Removes node modules from all of your JS projects.
 - Can be applied to a single project or a folder containing all of your projects.
@@ -10,7 +10,7 @@
 - In the case of a single project, include its path in the _addresses_
 - `node index.js`
 
-# or
+# Or
 
 - Copy code from `index.js` to a local js file -> save -> update _addresses_ -> run
 
