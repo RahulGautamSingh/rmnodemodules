@@ -16,4 +16,5 @@
 
 ## Warning
 
-- Do not use directly on C: or D: drives.
+- Do not use directly on C: or D: drives
+
